@@ -37,7 +37,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: me.camdenorrb:MiniBus:1.0.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: me.camdenorrb:MiniBus:1.0.6" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.1.2-2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.1.2-2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains:annotations:13.0" level="project" />
